@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Adélia!
 
-- 🌱 I’m currently learning Java
+ I'm 21 years old and I live in Piauí. I am currently a systems analysis and development student.
+
+- 🌱 I’m currently learning about java and object oriented programming paradigm
 - 📫 How to reach me: adeliamara13@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: in her spare time, athlete and pet mother 🏓🐶
