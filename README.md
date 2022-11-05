@@ -1,4 +1,4 @@
-### Hello strange👋 Eu sou a Adélia!
+### Hello stranger👋 Eu sou a Adélia!
 
 Tenho 21 anos e vivo no Piauí. Entusiasta da área de tecnologia, atualmente sou estudante de análise e desenvolvimento de sistemas.
 
