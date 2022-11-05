@@ -1,11 +1,10 @@
-### Hi there 👋 I am Adélia!
+### Hello strange👋 Eu sou a Adélia!
 
- I'm 21 years old and I live in Piauí. I am currently a systems analysis and development student.
+Tenho 21 anos e vivo no Piauí. Entusiasta da área de tecnologia, atualmente sou estudante de análise e desenvolvimento de sistemas.
 
-- 🌱 I’m currently learning about java and object oriented programming paradigm
-- 📫 How to reach me: adeliamara13@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: in her spare time, athlete and pet mother 🏓🐶
+- 🌱 Atualmente estou estudando sobre java e programação orientada a objetos
+- 📫 Meu email é adeliamara13@gmail.com
+- 😄 Pronomes: ela/dela
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeliamara&show_icons=true&theme=radical)
