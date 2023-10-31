@@ -11,3 +11,10 @@ Tenho 21 anos e vivo no Piauí. Entusiasta da área de tecnologia, atualmente so
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeliamara&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
+<div align="left">
+  <a href="https://github.com/guibrbs/github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adeliamara&hide=issues&theme=tokyonight&show_icons=true&hide_border=true" />
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes/README.md">
+  </a>
+</div>
+
