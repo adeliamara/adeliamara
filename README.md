@@ -1,20 +1,20 @@
 ### Hello stranger👋 Eu sou a Adélia!
 
-Tenho 21 anos e vivo no Piauí. Entusiasta da área de tecnologia, atualmente sou estudante de análise e desenvolvimento de sistemas. Compartilho por aqui alguns projetos desenvolvidos nessa jornada
+
+Sou desenvolvedora Full-Stack na V360. Estudo análise e desenvolvimento de sistemas no Instituto Federal do Piauí. Compartilho por aqui alguns projetos desenvolvidos nessa jornada.
 
 - 📫 Meu email é adeliamara13@gmail.com
 - 😄 Pronomes: ela/dela
 
-
-<div align="left">
-  <a href="https://github.com/cibellemc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeliamara&layout=compact&langs_count=8&theme=dracula"/>
+<div>
+<a href="https://www.linkedin.com/in/adeliamara/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>   
 </div>
 
-<div align="left">
-  <a href="https://github.com/guibrbs/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adeliamara&hide=issues&theme=tokyonight&show_icons=true&hide_border=true" />
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes/README.md">
-  </a>
-</div>
 
+## Tecnologias
+
+<a href="https://skillicons.dev">
+  <img height="35px" src="https://skillicons.dev/icons?i=rails,python,mongodb,postgres,git,docker,linux,vscode,github&perline=50" alt="rails, python, mongodb, postgresql, 
+ git, docker, linux, bash" title="rails,python,mongodb,postgresql, 
+ git, docker, linux, bash">
+</a>
